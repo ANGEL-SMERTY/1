@@ -1,3 +1,7 @@
+#profile-title: NAOKO TEST
+#profile-update-interval: 1
+#announce:Для подключения полной подписки подключитесь к серверу 
+
 https://gitverse.ru/api/repos/Angel_Smerty/FreeVPN/raw/branch/master/11.txt
 
 vless://1ca60829-476f-Fade-b1b4-a42660c00159@81.163.22.19:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&echfq=none&fp=qq&allowinsecure=0&type=grpc&serviceName=&sni=emssq-ru-wl46sel.my-fade.cloud#%D0%B8+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%B8+%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D1%83%21
